@@ -1,4 +1,6 @@
 # MNXB01-learn
 
 Once upon a time
-there was a **beautiful** _princess_
+
+There was an **evil** _witch_
+And everyone was afraid of her
